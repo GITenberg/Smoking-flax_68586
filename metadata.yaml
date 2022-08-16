@@ -1,0 +1,34 @@
+_repo: Smoking-flax_68586
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rives, Hallie Erminie
+    alias: Wheeler, Post, Mrs.
+    birthdate: 1876
+    deathdate: 1956
+    gutenberg_agent_id: '34390'
+    url: http://www.gutenberg.org/2009/agents/34390
+    wikipedia: https://en.wikipedia.org/wiki/Hallie_Erminie_Rives
+description: ''
+gutenberg_issued: '2022-07-22'
+identifiers:
+  gutenberg: '68586'
+  lccn: 07041018
+language: en
+pgterms:marc904: https://archive.org/details/smokingflaxstory00riverich/page/n4/mode/2up
+pgterms:marc905: 20210613165823rives
+pgterms:marc906: '1897'
+pgterms:marc907: GB
+production_note: D A Alexander and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by University of California
+  libraries)
+publication_note: United Kingdom :F. Tennyson Neely,1897.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Smoking flax
+url: http://www.gutenberg.org/ebooks/68586
